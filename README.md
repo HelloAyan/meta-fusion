@@ -18,4 +18,4 @@ Before setting up the project, make sure you have the following installed:
 Open your terminal and run the following command to clone the repository:
 
 ```bash
-git clone <your-git-repo-url>
+git clone https://github.com/HelloAyan/meta-fusion.git
